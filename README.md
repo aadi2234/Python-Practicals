@@ -1,4 +1,4 @@
-# Python Practicals - MSBTE (Course Code: 22617) 🐍
+# Python Practicals 
 
 This repository contains **Python Practical Programs** as per the MSBTE syllabus.  
 It includes **basic to advanced Python programs** covering operators, control structures, functions, data structures, OOP, modules, packages, and exception handling.
