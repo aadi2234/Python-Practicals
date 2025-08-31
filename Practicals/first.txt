@@ -1,0 +1,4 @@
+hello this is a test
+python file handling is pretty easy
+this is our 6th sem
+this is appended data!!!!!

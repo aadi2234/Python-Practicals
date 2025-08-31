@@ -1,0 +1,10 @@
+import math
+print("Factoial=",math.factorial(5))
+print("e**x=",math.exp(5))
+print("Square Root=",math.sqrt(625))
+print("Sine=",math.sin(80))
+print("Cosine=",math.cos(73))
+print("Tangent=",math.tan(75))
+print("Power=",math.pow(4,5))
+print("Degrees to Radian=",math.radians(80))
+print("Remainder=",math.remainder(59,7))
